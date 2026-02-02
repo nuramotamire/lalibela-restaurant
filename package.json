@@ -1,0 +1,12 @@
+{
+  "name": "lalibela-resturant-fullstack",
+  "version": "1.0.0",
+  "scripts": {
+    "client-install": "cd frontend && npm install",
+    "server-install": "cd backend && npm install",
+    "install-all": "npm run server-install && npm run client-install",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && node server.js",
+    "deploy": "npm run build && npm run start"
+  }
+}
