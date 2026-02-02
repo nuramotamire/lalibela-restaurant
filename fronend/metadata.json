@@ -1,0 +1,8 @@
+
+{
+  "name": "Lalibela Restaurant",
+  "description": "Authentic Ethiopian dining experience with interactive table selection and AI concierge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
